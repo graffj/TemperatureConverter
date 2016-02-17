@@ -5,4 +5,6 @@
     <string name="celsius">to Celsius</string>
     <string name="fahrenheit">to Fahrenheit</string>
     <string name="calc">Calculate</string>
+    <string name="degreesF">degrees Fahrenheit</string>
+    <string name="degreesC">degrees Celsius</string>
 </resources>
